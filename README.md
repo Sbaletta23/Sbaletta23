@@ -3,21 +3,35 @@
 ## About Me:
 <div>
 <h4>English</h4>
-<h4> ¡Welcome to my GitHub!<br>
-  I'm Full-Stack Web Developer Jr passionate about Front-End development! <br>
-  I made the decision to start a new professional path <br>
-  that motivates me to learn something new every day. <br>
-  Do you want to contact me or get to know me better? I leave my contact networks below.
-<hr>
+<h4>
+  My name is Santiago, I live in Argentina and I'm a Software Developer at NTT DATA! <br>
+  I made the decision to start this professional path that I am passionate about <br>
+  and motivates me to learn something new every day. I am currently <br>
+  taking various courses that allow me to perfect my skills <br>
+  As a developer, constantly working to try and improve everything I do.
   </h4>
 </div>
 
 <div>
   <h4>Español</h4>
-  <h4> Soy Full-Stack Web Developer Jr con una gran pasión por el desarrollo Front-End! <br>
-    Tomé la decisión de iniciar un nuevo camino profesional <br>
-    que me motiva a aprender algo nuevo cada día. <br>
-    Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
+  <h4>
+  Mi nombre es Santiago, vivo en Argentina y soy Software Developer en NTT DATA! <br>
+  Tomé la decisión de iniciar este camino profesional que me apasiona  <br>
+  y me motiva a aprender algo nuevo cada día. Actualmente me encuentro <br>
+  realizando diversos cursos que me permiten perfeccionar mis habilidades <br>
+  como desarrollador, trabajando constantemente para intentar mejorar todo lo que hago. <br>
+  <br>
+  Mis Skills principales son HTML, CSS, JavaScript, React y Redux, aunque también <br>
+  tengo conocimientos en Node.js, Express y MongoDB.<br>
+  <br>
+En caso de que te quieras comunicar conmigo te dejo mis contactos.<br>
+📑 santiagobarletta96@gmail.com<br>
+📲 +542216558634<br>
+📃 Linkedin: santiagobarletta
+
+  
+  
+  
   </h4>
 </div>
 
